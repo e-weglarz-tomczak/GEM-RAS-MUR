@@ -3,9 +3,9 @@ This repository contains genome-scale metabolic models for different nutrient av
 
 # Content
 This repository contains the following data:
-- featureCounts: Gene expression data for seven nutrient availability conditions.
-- RAS: Reaction Activity Score data for seven nutrient availability conditions.
-- GEMs: Final GEMs (based on Recon3D) for seven nutrient availability conditions.
+- `genes`: Gene expression data (featureCounts) for seven nutrient availability conditions.
+- `RAS`: Reaction Activity Score data for seven nutrient availability conditions.
+- `GEMs`: Final GEMs (based on Recon3D) for seven nutrient availability conditions.
 
 # Citation
 ```
