@@ -1,19 +1,11 @@
 # GEM-RES-MUR: An integrated metabolic profiling for GEM using RAS and MUR for Human Bone Osteosarcoma
-text
+This repository contains genome-scale metabolic models for different nutrient availability of Human Bone Osteosarcoma. All GEMs were obtained after applying our GEM-based metabolic profiling framework using metabolic gene expression data and information about nutrients.
 
 # Content
-- featureCounts
-- RAS
-- GEMs
-
-# Gene profiling
-explain what we have
-
-# RAS
-explain what we have
-
-# GEMs: Description
-text (explain we have GEM-RAS, GEM-MUR, GEM-RAS-MUR for different conditions)
+This repository contains the following data:
+- featureCounts: Gene expression data for seven nutrient availability conditions.
+- RAS: Reaction Activity Score data for seven nutrient availability conditions.
+- GEMs: Final GEMs (based on Recon3D) for seven nutrient availability conditions.
 
 # Citation
 ```
